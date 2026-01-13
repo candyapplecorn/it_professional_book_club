@@ -19,12 +19,15 @@ Why: Strategic alignment and empowering teams to act with intent. Bridging strat
 
 Why: Leadership and execution. How to raise the bar and drive results.
 
+### 4. Inspired - Marty Cagan
+*How to Create Tech Products Customers Love*
+
+Why: How the best product teams work. Covers discovery, delivery, and product culture. Recommended by a colleague.
+
 ---
 
 ## Potential Future Additions
 Books to consider for future iterations (not confirmed):
-
-- Inspired - Marty Cagan
 - Four Steps to the Epiphany - Steve Blank
 - The Lean Startup - Eric Ries
 - Lean Customer Development - Cindy Alvarez
