@@ -1,0 +1,10 @@
+{
+  "name": "kickoff-meeting-slides",
+  "version": "1.0.0",
+  "description": "Book Club Kickoff Meeting Presentation",
+  "scripts": {
+    "dev": "npx @marp-team/marp-cli@latest -w slides.md --html",
+    "build": "npx @marp-team/marp-cli@latest slides.md --html -o slides.html",
+    "pdf": "npx @marp-team/marp-cli@latest slides.md --pdf -o slides.pdf"
+  }
+}
